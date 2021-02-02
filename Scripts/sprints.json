@@ -1,0 +1,420 @@
+{
+    "startDate": "2020-09-17",
+    "sprints": [
+        {
+            "sprint": 1,
+            "dateEstimate": "2020-09-24",
+            "pointEstimate": 20,
+            "goal": "Read last year's team's final document to get an understanding of work that has already been done.",
+            "tasks": [
+                {
+                    "name": "Read Last Year's Final Doc",
+                    "pointEstimate": 20,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-17",
+                    "dateCompleted": "2020-09-24"
+                }
+            ]
+        },
+        {
+            "sprint": 2,
+            "dateEstimate": "2020-10-01",
+            "pointEstimate": 27,
+            "goal": "Finish assignment 3 to set up first 15 pages of final document; Acquire Everglades code; Set up sponsor contact.",
+            "tasks": [
+                {
+                    "name": "Assignment 3 Section 1",
+                    "pointEstimate": 0.5,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Assignment 3 Section 2",
+                    "pointEstimate": 8,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Assignment 3 Section 3",
+                    "pointEstimate": 3,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Assignment 3 Section 4",
+                    "pointEstimate": 2,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Assignment 3 Section 5",
+                    "pointEstimate": 4,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Assignment 3 Section 6",
+                    "pointEstimate": 3,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Assignment 3 Section 7",
+                    "pointEstimate": 5,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Set Up Point of Contact with Sponsor",
+                    "pointEstimate": 1,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                },
+                {
+                    "name": "Acquire Everglades Code",
+                    "pointEstimate": 0.5,
+                    "assignee": "All",
+                    "dateCreated": "2020-09-24",
+                    "dateCompleted": "2020-10-01"
+                }
+            ]
+        },
+        {
+            "sprint": 3,
+            "dateEstimate": "2020-10-08",
+            "pointEstimate": 25,
+            "goal": "Set up Everglades code; Every team member should program a Q-Learning agent for an OpenAI Gym Environment",
+            "tasks": [
+                {
+                    "name": "Document Everglades Code",
+                    "pointEstimate": 5,
+                    "assignee": "All",
+                    "dateCreated": "2020-10-01",
+                    "dateCompleted": "2020-10-05"
+                },
+                {
+                    "name": "Create Visualization for Everglades Environment",
+                    "pointEstimate": 8,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-10-03",
+                    "dateCompleted": "2020-10-05"
+                },
+                {
+                    "name": "Create Q-Learning Agent for OpenAI Gym Environment",
+                    "pointEstimate": 4,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-10-01",
+                    "dateCompleted": "2020-10-02"
+                },
+                {
+                    "name": "Create Q-Learning Agent for OpenAI Gym Environment",
+                    "pointEstimate": 4,
+                    "assignee": "Joshua Gracie",
+                    "dateCreated": "2020-10-01",
+                    "dateCompleted": "2020-10-08"
+                },
+                {
+                    "name": "Create Q-Learning Agent for OpenAI Gym Environment",
+                    "pointEstimate": 4,
+                    "assignee": "David Mahoney",
+                    "dateCreated": "2020-10-01",
+                    "dateCompleted": "2020-10-08"
+                },
+                {
+                    "name": "Create Q-Learning Agent for OpenAI Gym Environment",
+                    "pointEstimate": 4,
+                    "assignee": "Joel Membribe",
+                    "dateCreated": "2020-10-01",
+                    "dateCompleted": "2020-10-09"
+                },
+                {
+                    "name": "Create Q-Learning Agent for OpenAI Gym Environment",
+                    "pointEstimate": 4,
+                    "assignee": "Tyler Sanders",
+                    "dateCreated": "2020-10-01",
+                    "dateCompleted": "2020-10-08"
+                },
+                {
+                    "name": "Create Burndown Chart Software",
+                    "pointEstimate": 5,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-10-06",
+                    "dateCompleted": "2020-10-07"
+                }
+            ]
+        },
+        {
+            "sprint": 4,
+            "dateEstimate": "2020-10-13",
+            "pointEstimate": 25,
+            "goal": "Complete Powerpoint Presentation; Get started on Assignment #4; Get substantial work done on final doc",
+            "tasks": [
+                {
+                    "name": "Create Title Page w/ Project Name and Team Members' Names",
+                    "pointEstimate": 3,
+                    "assignee": "David Mahoney",
+                    "dateCreated": "2020-10-08",
+                    "dateCompleted": "2020-10-13"
+                },
+                {
+                    "name": "Create Table of Contents",
+                    "pointEstimate": 6,
+                    "assignee": "All",
+                    "dateCreated": "2020-10-08",
+                    "dateCompleted": ""
+                },
+                {
+                    "name": "Create Big Picture Overview of Project",
+                    "pointEstimate": 4,
+                    "assignee": "David Mahoney",
+                    "dateCreated": "2020-10-08",
+                    "dateCompleted": "2020-10-13"
+                },
+                {
+                    "name": "Specific Requirements of Project",
+                    "pointEstimate": 2,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-10-08",
+                    "dateCompleted": "2020-10-09"
+                },
+                {
+                    "name": "Project Solution Diagram",
+                    "pointEstimate": 4,
+                    "assignee": "Tyler Sanders",
+                    "dateCreated": "2020-10-08",
+                    "dateCompleted": "2020-10-13"
+                },
+                {
+                    "name": "Milestones Added to PowerPoint",
+                    "pointEstimate": 5,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-10-08",
+                    "dateCompleted": "2020-10-09"
+                },
+                {
+                    "name": "Budget Slide of Powerpoint",
+                    "pointEstimate": 1,
+                    "assignee": "Joel Membribe",
+                    "dateCreated": "2020-10-08",
+                    "dateCompleted": "2020-10-13"
+                }
+            ]
+        },
+        {
+            "sprint": 5,
+            "dateEstimate": "2020-10-21",
+            "pointEstimate": 30,
+            "goal": "Complete Assignment #4",
+            "tasks": [
+                {
+                    "name": "Complete 15 Pages",
+                    "pointEstimate": 6,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-10-13",
+                    "dateCompleted": "2020-10-14"
+                },
+                {
+                    "name": "Complete 15 Pages",
+                    "pointEstimate": 6,
+                    "assignee": "David Mahoney",
+                    "dateCreated": "2020-10-13",
+                    "dateCompleted": "2020-10-21"
+                },
+                {
+                    "name": "Complete 15 Pages",
+                    "pointEstimate": 6,
+                    "assignee": "Joel Membribe",
+                    "dateCreated": "2020-10-13",
+                    "dateCompleted": "2020-10-21"
+                },
+                {
+                    "name": "Complete 15 Pages",
+                    "pointEstimate": 6,
+                    "assignee": "Joshua Gracie",
+                    "dateCreated": "2020-10-13",
+                    "dateCompleted": "2020-10-21"
+                },
+                {
+                    "name": "Complete 15 Pages",
+                    "pointEstimate": 6,
+                    "assignee": "Tyler Sanders",
+                    "dateCreated": "2020-10-13",
+                    "dateCompleted": "2020-10-21"
+                }
+            ]
+        },
+        {
+            "sprint": 6,
+            "dateEstimate": "2020-11-05",
+            "pointEstimate": 60,
+            "goal": "Deep Q-Learning Agent implemented for Everglades.",
+            "tasks": [
+                {
+                    "name": "Implement DQN Agent",
+                    "pointEstimate": 12,
+                    "assignee": "David Mahoney",
+                    "dateCreated": "2020-10-21",
+                    "dateCompleted": "2020-11-19"
+                },
+                {
+                    "name": "Implement DQN Agent",
+                    "pointEstimate": 12,
+                    "assignee": "Joel Membribe",
+                    "dateCreated": "2020-10-21",
+                    "dateCompleted": "2020-11-19"
+                },
+                {
+                    "name": "Implement DQN Agent",
+                    "pointEstimate": 12,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-10-21",
+                    "dateCompleted": "2020-11-14"
+                },
+                {
+                    "name": "Implement DQN Agent",
+                    "pointEstimate": 12,
+                    "assignee": "Joshua Gracie",
+                    "dateCreated": "2020-10-21",
+                    "dateCompleted": "2020-11-13"
+                },
+                {
+                    "name": "Implement DQN Agent",
+                    "pointEstimate": 12,
+                    "assignee": "Tyler Sanders",
+                    "dateCreated": "2020-10-21",
+                    "dateCompleted": "2020-11-19"
+                }
+            ]
+        },
+        {
+            "sprint": 7,
+            "dateEstimate": "2020-12-18",
+            "pointEstimate": 80,
+            "goal": "Begin Constructing Rainbow Components",
+            "tasks": [
+                {
+                    "name": "Double DQN",
+                    "pointEstimate": 8,
+                    "assignee": "Tyler Sanders",
+                    "dateCreated": "2020-11-05",
+                    "dateCompleted": ""
+                },
+                {
+                    "name": "Prioritized Replay",
+                    "pointEstimate": 16,
+                    "assignee": "David Mahoney",
+                    "dateCreated": "2020-11-05",
+                    "dateCompleted": ""
+                },
+                {
+                    "name": "Dueling Networks",
+                    "pointEstimate": 16,
+                    "assignee": "Joshua Gracie",
+                    "dateCreated": "2020-11-05",
+                    "dateCompleted": ""
+                },
+                {
+                    "name": "Multi-Step Learning",
+                    "pointEstimate": 16,
+                    "assignee": "John Lehett",
+                    "dateCreated": "2020-11-05",
+                    "dateCompleted": ""
+                },
+                {
+                    "name": "Distributional RL",
+                    "pointEstimate": 16,
+                    "assignee": "Joel Membribe",
+                    "dateCreated": "2020-11-05",
+                    "dateCompleted": ""
+                },
+                {
+                    "name": "Noisy Networks",
+                    "pointEstimate": 8,
+                    "assignee": "Tyler Sanders",
+                    "dateCreated": "2020-11-05",
+                    "dateCompleted": ""
+                }
+            ]
+        },
+        {
+            "sprint": 8,
+            "dateEstimate": "2021-01-28",
+            "pointEstimate": 200,
+            "goal": "PPO and A3C are both implemented for Everglades.",
+            "tasks": [
+
+            ]
+        },
+        {
+            "sprint": 9,
+            "dateEstimate": "2021-02-18",
+            "pointEstimate": 175,
+            "goal": "PPO self-play, DPPO, Rainbow, and RND are implemented for Everglades.",
+            "tasks": [
+
+            ]
+        },
+        {
+            "sprint": 10,
+            "dateEstimate": "2021-03-04",
+            "pointEstimate": 75,
+            "goal": "Research is done on at least 2 additional improvements that could be made to our RL agents.",
+            "tasks": [
+
+            ]
+        },
+        {
+            "sprint": 11,
+            "dateEstimate": "2021-04-01",
+            "pointEstimate": 150,
+            "goal": "All researched improvements are implemented in Everglades.",
+            "tasks": [
+
+            ]
+        },
+        {
+            "sprint": 12,
+            "dateEstimate": "2021-04-06",
+            "pointEstimate": 20,
+            "goal": "All agents fully-trained in Everglades.",
+            "tasks": [
+
+            ]
+        },
+        {
+            "sprint": 13,
+            "dateEstimate": "2021-04-12",
+            "pointEstimate": 30,
+            "goal": "All agents are analyzed.",
+            "tasks": [
+
+            ]
+        },
+        {
+            "sprint": 14,
+            "dateEstimate": "2021-04-15",
+            "pointEstimate": 20,
+            "goal": "Overall thoughts on what could be improved in Everglades to encourage open-source contributions are compiled.",
+            "tasks": [
+
+            ]
+        },
+        {
+            "sprint": 15,
+            "dateEstimate": "2021-04-22",
+            "pointEstimate": 100,
+            "goal": "Final presentation is prepared.",
+            "tasks": [
+
+            ]
+        }
+    ]
+}
